@@ -1,4 +1,6 @@
+Olá, eu sou Alvaro 
 
+Desenvolvedor Web e .NET 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDePaula3&layout=compact&theme=dracula)
 
